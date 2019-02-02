@@ -1,0 +1,7 @@
+Ponytail: Your code looks like song lyrics written using only the stuff that comes after the question mark in a URL.
+Cueball (off-panel): Sorry.
+Ponytail: It's like a JSON table of model numbers for flashlights with "tactical" in their names.
+Ponytail: Like you read Turing's 1936 paper on computing and a page of JavaScript example code and guessed at everything in between.
+Ponytail: It's like a leet-speak translation of a manifesto by a survivalist cult leader who's for some reason obsessed with memory allocation.
+Cueball (off-panel): I can get someone else to review my code.
+Ponytail: Not more than once, I bet.

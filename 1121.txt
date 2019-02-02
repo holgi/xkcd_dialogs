@@ -1,0 +1,5 @@
+Cueball: Hey, I lost the server password. What is it, again?
+Megan: It's- ...Wait. How do I know it's really you?
+Cueball: Ooh, good question! I bet we can construct a cool proof-of-identity protocol. I'll start by picking two random-
+Megan: Oh good; it's you. Here's the password...
+Cueball: NO!

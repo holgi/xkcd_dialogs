@@ -1,0 +1,11 @@
+Cueball: What were things like in the old days?
+Cueball: I hear that you had to ... compile things for different processors?
+Hairbun: Yeah
+Hairbun: To compile your code, you had to mail it to IBM.
+Hairbun: It took 4-6 weeks.
+Hairbun: Before garbage collection, data would pile up until the computer got full and you had to throw it away.
+Hairbun: Early compilers could handle code fine, but comments had to be written in assembly.
+Hairbun: C could only be written on punch cards.You had to pick a compact font, or you'd only fit a few characters per card.
+Hairbun: C++ was big because it supported floppy disks.
+Hairbun: It still punched holes in them, but it was a start.
+Cueball: Wow.

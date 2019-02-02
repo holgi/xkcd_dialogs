@@ -1,0 +1,2 @@
+White Hat: Why do you like functional programming so much? What does it actually get you?
+Cueball: Tail recursion is its own reward.

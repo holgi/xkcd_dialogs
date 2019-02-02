@@ -1,0 +1,5 @@
+Cueball: I was trying to figure out why my browser was acting weird.
+Cueball: Turns out it wasn't the browser-the issue was with my keyboard driver.
+Cueball: Debugging that led me to a mysterious error message from a system utility...
+Cueball: Anyway, long story short, I found the sword of Martin the Warrior.
+White Hat: I think at some point there you switched puzzles.

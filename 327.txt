@@ -1,0 +1,7 @@
+Voice over the phone: Hi, This is your son's school. We're having some computer trouble.
+Mrs. Roberts: Oh, dear - did he break something?
+Voice over the phone: In a way -
+Voice over the phone: Did you really name your son Robert'); DROP TABLE Students;-- ?
+Mrs. Roberts: Oh, yes. Little Bobby Tables, we call him.
+Voice over the phone: Well, we've lost this year's student records. I hope you're happy.
+Mrs. Roberts: And I hope you've learned to sanitize your database inputs.

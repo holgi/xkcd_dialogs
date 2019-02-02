@@ -1,0 +1,12 @@
+White Hat: Man, Docker is being used for everything.
+White Hat: I don't know how I feel about it.
+Cueball: Story time!
+Cueball: Once, long ago, I wanted to use an old tablet as a wall display.
+Cueball: I had an app and a calendar webpage that I wanted to show side by side, but the OS didn't have split-screen support.
+Cueball: So I decided to build my own app.
+Cueball: I downloaded the SDK and the IDE, registered as a developer, and started reading the language's docs.
+Cueball: ...Then I realized it would be way easier to get two smaller phones on eBay and glue them together.
+Cueball: On that day, I achieved software enlightenment.
+White Hat: But you never learned to write software.
+Cueball: No, I just learned how to glue together stuff that I don't understand.
+White Hat: I...OK, fair.

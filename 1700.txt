@@ -1,0 +1,7 @@
+Cueball: Can you take a look at the bug I just opened?
+Off-panel voice: Uh oh.
+Off-panel voice: Is this a normal bug, or one of those horrifying ones that prove your whole project is broken beyond repair and should be burned to the ground?
+Cueball: It's a normal one this time, I promise.
+Off-panel voice: OK, what's the bug?
+Cueball: The server crashes if a user's password is a resolvable URL.
+Off-panel voice: I'll get the lighter fluid.

@@ -1,0 +1,2 @@
+Cueball: Weird - My code's crashing when given pre-1970 dates.
+Friend [pointing at Cueball and his computer]: Epoch fail!

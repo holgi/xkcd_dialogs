@@ -1,0 +1,4 @@
+Cueball: Did you know Canada is actually a smallish island in Lake Ontario?
+White Hat: What?
+Cueball: Yeah, it only appears to have a land border with the U.S. due to the Mercator Projection.
+White Hat: Wow! I had no idea.

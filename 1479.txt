@@ -1,0 +1,6 @@
+Hairy: Wait, why can't I click anywhere?
+Cueball: I don't... Ugh, It opened a dialog box offscreen.
+Hairy: Why is that even possible?
+Cueball: It really shouldn't be. But you can fix it by changing your screen resolution to trigger a window cleanup.
+Hairy: Seriously?
+Cueball: I know, I know...

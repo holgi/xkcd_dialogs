@@ -1,0 +1,2 @@
+Cueball: This Ayn Random number generator you wrote claims to be fair, but the output is biased toward certain numbers.
+White Hat: WELL, MAYBE THOSE NUMBERS ARE JUST INTRINSICALLY BETTER!

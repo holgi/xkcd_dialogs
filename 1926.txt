@@ -1,0 +1,11 @@
+Ponytail: That's the ugliest mess of code I've ever seen! What on earth are you working on?
+Cueball: It's nothing weird this time, I swear.
+Cueball: It just looks bad because it's a spreadsheet formula.
+Cueball: ...which assembles a Haskell function.
+Ponytail: Uhhh.
+Cueball: ...for parsing HTML.
+Ponytail: ...oh my God.
+Cueball: It's ok! Nothing depends on this.
+Ponytail: That wall isn't load-bearing. Does that mean we can just throw hammers at it?
+Cueball: ...I mean...
+Ponytail: Wait. Crap.

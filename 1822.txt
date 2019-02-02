@@ -1,0 +1,2 @@
+Issue: A recent update broke support for hardware I need for my job.
+Workaround: If we wait long enough, the earth will eventually be consumed by the sun.

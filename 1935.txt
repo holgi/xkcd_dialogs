@@ -1,0 +1,11 @@
+Megan: I wonder if 2018 will be a leap year.
+Cueball: ...it won't be, right?
+Megan: I doubt anyone knows at this point.
+Cueball: No, it's definitely not. Leap years are divisible by 4.
+Megan: Right, and for odd numbers, that's easy.
+Megan: But 2018 is even.
+Megan: 50/50 chance.
+Cueball: I can settle this with a calculator.
+Megan: No way. If it were easy to factor large numbers like that, modern cryptography would collapse.
+Cueball: I see.
+Megan: I just hope we manage to brute-force it by February.

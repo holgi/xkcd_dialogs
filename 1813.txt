@@ -1,0 +1,7 @@
+Cueball: The proposed emoji for Unicode 10.0 look good.
+Megan: Hmm.
+Megan: "U+1F92E Face with open mouth vomiting"
+Cueball: Eww.
+Megan: Really, "vomiting" should be a combining modifier, so you can use it to make a vomiting version of any emoji.
+Cueball: Umm.
+Megan: I'm gonna write up a proposal.

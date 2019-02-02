@@ -1,0 +1,10 @@
+Cueball: Magnus Carlsen has an app where you can play chess against a simulated version of him at different ages.
+Cueball: I can beat the 8 1/2-year-old, but lose to him at 9.
+Megan: I want that, but for other games.
+Megan: Can I beat 8-year-old Serena Williams at Tennis? Swim laps faster than a 6-year-old Michael Phelps?
+Cueball: We should make a simulator.
+Cueball: ...Why limit it to games? Can I cook a better chicken than 11-year-old Martha Stewart?
+Megan: Win an election against 12-year-old JFK?
+Megan: Looks like 8-year-old Magnus Carlsen can swim faster than 9-year-old Martha Stewart.
+Cueball: But they both lose a hot-dog-eating contest to 2-year-old Secretariat.
+Megan: This project has gotten weird.

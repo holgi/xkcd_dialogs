@@ -1,0 +1,5 @@
+Cueball: Check it out - I made a full automated data pipeline that collects and processes all the information we need.
+Ponytail: Is it a giant house of cards built from random scripts that will all completely collapse the moment any input does anything weird?
+Cueball: It... might not be.
+Ponytail: I guess that's someth-
+Cueball: Whoops, just collapsed. Hang on, I can patch it.

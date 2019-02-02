@@ -1,0 +1,2 @@
+Megan: Code written in Haskell is guaranteed to have no side effects.
+Cueball: ...because no one will ever run it?
