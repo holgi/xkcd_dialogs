@@ -12,8 +12,9 @@ At the [35c3][] I've seen a very intriguing (and hopefully easy to build)
 xkcd display by [Freies Labor Hildesheim][freieslabor]. And now I want to build
 one myself.
 
-The [repo][display] will one day hopefully contain a build instructions and
-the required software to run is. But please be patient, I'm just starting this.
+The [repo of the display][display] will one day hopefully contain a build
+instructions and the required software to run is. But please be patient, I'm
+just starting this.
 
 
 
