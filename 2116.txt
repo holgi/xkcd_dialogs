@@ -1,0 +1,4 @@
+Voice: I sent you the data.
+Cueball: Thanks!
+Cueball: ...this is a Word document containing an embedded photo you took of your screen with the spreadsheet open.
+Voice: Yeah? Does your computer not support .NORM files? Maybe you need to update.
