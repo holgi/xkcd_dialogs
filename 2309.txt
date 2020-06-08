@@ -1,0 +1,11 @@
+Cueball: I've developed a new programming language!
+Megan: Didn't a judge order you to stop doing that?
+Cueball: Higher court threw out the ruling!
+Cueball: I'm back, suckers!
+Megan: Dammit.
+Cueball: But I promise it's good this time!
+Cueball: Just normal code. Good clean syntax. Nothing weird.
+Megan: Okay...
+Cueball: Except the only variable name is "X". To refer to different variables you have to write "X" in different fonts.
+Megan: I'm calling the court.
+Megan: Maybe we can appeal.

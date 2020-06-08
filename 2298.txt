@@ -1,0 +1,12 @@
+Cueball: So that's the coronavirus genome, huh?
+Megan: It is!
+Cueball: It's weird that you can just look at it in a text editor.
+Megan: It's essential!
+Megan: We geneticists do most of our work in Notepad.
+Cueball: Notepad?
+Megan: Yup! Nicer labs use Word, which lets you change the genome font size and make nucleotides bold or italic.
+Cueball: Ah, okay.
+Megan: That extra formatting is called "epigenetics".
+Cueball: Hey, why does that one have a red underline?
+Megan: When we identify a virus, we add its genome to spellcheck. That's how we spot mutations.
+Cueball: Clever!
